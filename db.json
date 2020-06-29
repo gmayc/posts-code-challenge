@@ -66,6 +66,6 @@
   "users": [{
     "id": 1,
     "username": "testUser",
-    "password": "$2y$10$oats0R7KcuH1xDBIGgGLEuTOCx4W08oEUe9lJagfnJcHgqEBwGNcC"
+    "password": "$2b$10$xZkTI8rx6iu81fTaIaD8XeT8DVHf.PCU3./1Sumzo9UDv37ZbYv62"
   }]
 }
