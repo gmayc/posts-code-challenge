@@ -2,7 +2,7 @@
   "posts": [{
       "id": 1,
       "title": "The waves are high & beautiful",
-      "category": "travel",
+      "category": "Travel",
       "shortDescription": "Photo booth anim 8-bit hella",
       "description": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella. <br> Lorem ipsum dolor sit amet enatis sociosqu egestas sociis nibh. Ornare hendrerit fringilla interdum ridiculus consequat euismod condimentum magna. <br> Tortor sollicitudin pharetra mattis fames fusce placerat. Aenean dignissim consequat posuere quam laoreet in luctus mus, orci mattis sapien ullamcorper ad dictum massa quisque parturient, lacus inceptos et ut nulla condimentum eget.",
       "publishedAt": "2015-03-15T08:40:51.620Z",
@@ -27,7 +27,7 @@
     {
       "id": 2,
       "title": "At the beach in winter",
-      "category": "lifestyle",
+      "category": "Lifestyle",
       "shortDescription": "Single-origin coffee ea next level ethnic fingerstache fanny pack nostrud.",
       "description": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella. <br> Lorem ipsum dolor sit amet enatis sociosqu egestas sociis nibh. Ornare hendrerit fringilla interdum ridiculus consequat euismod condimentum magna. <br> Tortor sollicitudin pharetra mattis fames fusce placerat. Aenean dignissim consequat posuere quam laoreet in luctus mus, orci mattis sapien ullamcorper ad dictum massa quisque parturient, lacus inceptos et ut nulla condimentum eget.",
       "publishedAt": "2015-03-15T08:40:51.620Z",
@@ -37,7 +37,7 @@
     {
       "id": 3,
       "title": "The Edge of Nothing Lake",
-      "category": "business",
+      "category": "Business",
       "shortDescription": "Meh synth Schlitz, fingerstache fanny pack nostrud.",
       "description": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella. <br> Lorem ipsum dolor sit amet enatis sociosqu egestas sociis nibh. Ornare hendrerit fringilla interdum ridiculus consequat euismod condimentum magna. <br> Tortor sollicitudin pharetra mattis fames fusce placerat. Aenean dignissim consequat posuere quam laoreet in luctus mus, orci mattis sapien ullamcorper ad dictum massa quisque parturient, lacus inceptos et ut nulla condimentum eget.",
       "publishedAt": "2015-03-15T08:40:51.620Z",
@@ -51,7 +51,7 @@
     {
       "id": 4,
       "title": "Five Hundred Twenty",
-      "category": "travel",
+      "category": "Travel",
       "shortDescription": "Level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella",
       "description": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella. <br> Lorem ipsum dolor sit amet enatis sociosqu egestas sociis nibh. Ornare hendrerit fringilla interdum ridiculus consequat euismod condimentum magna. <br> Tortor sollicitudin pharetra mattis fames fusce placerat. Aenean dignissim consequat posuere quam laoreet in luctus mus, orci mattis sapien ullamcorper ad dictum massa quisque parturient, lacus inceptos et ut nulla condimentum eget.",
       "publishedAt": "2015-03-15T08:40:51.620Z",
